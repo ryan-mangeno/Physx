@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?> 
 <preset name="vc17win64-cpu-only" comment="VC17 Win64 PhysX general settings (cpu only)">
   <platform targetPlatform="win64" compiler="vc17" />
   <CMakeSwitches>
